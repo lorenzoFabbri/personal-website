@@ -1,0 +1,12 @@
+- title: ""
+  date:
+  description: >-
+    
+  location:
+  links:
+  - name: Companion site, slides, and materials
+    url:
+    icon: fa-solid fa-chalkboard-user
+  - name: GitHub repository
+    url:
+    icon: fa-brands fa-github

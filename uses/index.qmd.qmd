@@ -1,0 +1,27 @@
+---
+title: What I use
+date: "`r format(Sys.time(), '%d/%m/%Y')`"
+title-block-banner: "#771C6D"
+published-title: Last updated
+toc: true
+toc-location: left
+toc-title: "Contents"
+---
+
+## Writing
+
+## Development
+
+### Science and research
+
+### Web
+
+### Miscellaneous
+
+## Desktop apps
+
+### Graphic design
+
+### Productivity
+
+## Hardware

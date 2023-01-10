@@ -1,0 +1,13 @@
+---
+title: What I'm doing now
+date: "`r format(Sys.time(), '%d/%m/%Y')`"
+published-title: Last updated
+title-block-banner: "#771C6D"
+toc: false
+---
+
+I'm spending *all* my time on these things:
+
+- Living in...
+- Working as...
+- Working on...

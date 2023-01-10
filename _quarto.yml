@@ -33,21 +33,21 @@ website:
   title: "Lorenzo Fabbri"
   description: "Lorenzo Fabbri is a PhD student at the Barcelona Institute for Global Health."
   favicon: "/files/favicon.png"
-  site-url: "https://www.andrewheiss.com"
-  repo-url: "https://github.com/andrewheiss/ath-quarto"
+  site-url: "https://www.epilorenzofabbri.com"
+  repo-url: "https://github.com/lorenzoFabbri/personal-website"
 
-  google-analytics: "UA-527449-5"
+  #google-analytics: "UA-527449-5"
 
-  twitter-card: 
-    image: "/files/profiles/twitter-card-large.png"
+  twitter-card:
+    image: "/files/favicons.png"
     card-style: summary_large_image
-    creator: "@andrewheiss"
-    site: "@andrewheiss"
+    creator: "@lorenzoF_SM"
+    site: "@lorenzoF_SM"
 
   open-graph: 
-    image: "/files/profiles/twitter-card-large.png"
+    image: "/files/favicons.png"
     locale: en_US
-  
+
   navbar:
     pinned: true
 
@@ -68,53 +68,37 @@ website:
         href: now/index.qmd
       - text: "Uses"
         file: uses/index.qmd
-    
+
     right:
       - icon: rss
         aria-label: rss
         href: atom.xml
       - icon: envelope
         aria-label: email
-        href: "mailto:aheiss@gsu.edu"
+        href: "mailto:lorenzo.fabbri@isglobal.org"
       - icon: twitter
         aria-label: twitter
-        href: https://twitter.com/andrewheiss
-        rel: me
-      - icon: mastodon
-        aria-label: mastodon
-        href: https://fediscience.org/users/andrew/
+        href: https://twitter.com/lorenzoF_SM
         rel: me
       - icon: github
         aria-label: github
-        href: https://github.com/andrewheiss
-        rel: me
-      - icon: youtube
-        aria-label: youtube
-        href: https://www.youtube.com/andrewheiss
-        rel: me
-      - icon: postage-heart-fill
-        aria-label: family
-        href: https://www.heissatopia.com/
-      - icon: linkedin
-        aria-label: linkedin
-        href: https://www.linkedin.com/in/andrewheiss
+        href: https://github.com/lorenzoFabbri
         rel: me
   
   page-footer:
     left: |
-      <span class="faux-block">{{< fa brands creative-commons >}} {{< var years >}} Andrew Heiss</span>
+      <span class="faux-block">{{< fa brands creative-commons >}} {{< var years >}} Lorenzo Fabbri</span>
       <span class="faux-block">All content licensed under<br>[{{< fa brands creative-commons >}} {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-sa >}} Creative Commons CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</span>      
     center: |
       <span class="faux-block">{{< fa brands orcid >}} <strong>ORCID</strong> [{{< var orcid >}}](https://orcid.org/{{< var orcid >}})</span>
-      <span class="faux-block">{{< fa key >}} [PGP public key]({{< var pgp.key >}}) &emsp; {{< fa fingerprint >}} Fingerprint:</strong><br><span class="fingerprint">{{< var pgp.fingerprint >}}</span></span>
     right: |
       <span class="faux-block">Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)</span>
       <span class="faux-block">[View the source at {{< fa brands github >}} GitHub]({{< var github-url >}})</span>
 
 format:
   html:
-    theme: 
-      - html/ath.scss
+    theme:
+      - html/lof.scss
     toc: false
     code-link: true
     anchor-sections: true

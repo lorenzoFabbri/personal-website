@@ -79,11 +79,9 @@ website:
       - icon: twitter
         aria-label: twitter
         href: https://twitter.com/lorenzoF_SM
-        rel: me
       - icon: github
         aria-label: github
         href: https://github.com/lorenzoFabbri
-        rel: me
   
   page-footer:
     left: |

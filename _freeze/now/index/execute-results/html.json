@@ -1,0 +1,14 @@
+{
+  "hash": "16e21e05748dc245c07a0ed8407cdc75",
+  "result": {
+    "markdown": "---\ntitle: What I'm doing now\ndate: \"10/01/2023\"\npublished-title: Last updated\ntitle-block-banner: \"#771C6D\"\ntoc: false\n---\n\n\nI'm spending *all* my time on these things:\n\n- Living in...\n- Working as...\n- Working on...\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

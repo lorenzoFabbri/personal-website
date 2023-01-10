@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (1:1.2.2+202212051552+b0a8486541)"
+   sodipodi:docname="favicon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.6819304"
+     inkscape:cx="263.98238"
+     inkscape:cy="233.95736"
+     inkscape:window-width="1846"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="false" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#2f2a42;fill-opacity:1;stroke:none;stroke-width:0.112183;stop-color:#000000"
+       id="rect114"
+       width="84.949486"
+       height="84.949486"
+       x="60.516773"
+       y="14.379056" />
+    <g
+       id="g4927">
+      <path
+         id="path4230"
+         style="opacity:1;fill:#15670a;stroke-width:0.129114;stop-color:#000000;fill-opacity:1"
+         d="M 101.99125,56.853894 70.326,38.572323 v 36.563142 z" />
+      <path
+         id="path4860"
+         style="opacity:1;fill:#1f930f;stroke-width:0.129114;stop-color:#000000;fill-opacity:1"
+         d="M 101.99165,58.854 70.326396,77.135571 101.99165,95.417661 Z" />
+      <path
+         id="path4850"
+         style="opacity:1;fill:#44ac36;stroke-width:0.129114;stop-color:#000000;fill-opacity:1"
+         d="m 103.992,58.854 v 36.563661 l 31.66473,-18.28209 z" />
+      <path
+         id="path4848"
+         style="opacity:1;fill:#44ac36;stroke-width:0.129114;stop-color:#000000;fill-opacity:1"
+         d="M 101.99125,18.29 70.326,36.571572 v 5.17e-4 l 31.66525,18.281571 z" />
+      <path
+         id="path4846"
+         style="opacity:1;fill:#15670a;stroke-width:0.129114;stop-color:#000000;fill-opacity:1"
+         d="M 135.65673,38.572323 103.992,56.853894 135.65673,75.135465 Z" />
+      <path
+         id="path4855"
+         style="opacity:1;fill:#1f930f;stroke-width:0.129114;stop-color:#000000;fill-opacity:1"
+         d="m 103.992,18.29 v 36.56366 l 31.66473,-18.281571 v -5.17e-4 z" />
+    </g>
+    <g
+       id="g4919"
+       transform="translate(0.08234172,2.9108206)"
+       inkscape:export-filename="favicon.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.1667px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.70417"
+         x="71.538361"
+         y="75.478096"
+         id="text4865"><tspan
+           sodipodi:role="line"
+           id="tspan4863"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:68.1667px;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:1.70417"
+           x="71.538361"
+           y="75.478096">LF</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,9 +1,100 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "personalWebsite",
+    "title": "Hello there!",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "I’m a…\nI study… I do research in…"
+  },
+  {
+    "objectID": "now/index.html",
+    "href": "now/index.html",
+    "title": "What I’m doing now",
+    "section": "",
+    "text": "Living in…\nWorking as…\nWorking on…"
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research spans… I study… I also research…"
+  },
+  {
+    "objectID": "research/index.html#journal-articles",
+    "href": "research/index.html#journal-articles",
+    "title": "Research",
+    "section": "Journal articles",
+    "text": "Journal articles\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/index.html#working-papers",
+    "href": "research/index.html#working-papers",
+    "title": "Research",
+    "section": "Working papers",
+    "text": "Working papers\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks/index.html",
+    "href": "talks/index.html",
+    "title": "Talks",
+    "section": "",
+    "text": "This page contains the source code, links, and slides for various workshops, talks, lectures, and presentations I’ve given."
+  },
+  {
+    "objectID": "talks/index.html#section",
+    "href": "talks/index.html#section",
+    "title": "Talks",
+    "section": "2023",
+    "text": "2023\n\n\n    \n                  \n            October 1, 2023\n        \n        \n            Test\n            Test | Test\n            \n                \n                    \n                         Companion site, slides, and materials\n                    \n                \n                \n                    \n                         GitHub repository\n                    \n                \n            \n        \n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "| \n                \n            \n            \n            \n                 \n            \n        \n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "uses/index.qmd.html#development",
+    "href": "uses/index.qmd.html#development",
+    "title": "What I use",
+    "section": "Development",
+    "text": "Development\nScience and research\nWeb\nMiscellaneous"
+  },
+  {
+    "objectID": "uses/index.qmd.html#desktop-apps",
+    "href": "uses/index.qmd.html#desktop-apps",
+    "title": "What I use",
+    "section": "Desktop apps",
+    "text": "Desktop apps\nGraphic design\nProductivity"
+  },
+  {
+    "objectID": "uses/index.qmd.html#hardware",
+    "href": "uses/index.qmd.html#hardware",
+    "title": "What I use",
+    "section": "Hardware",
+    "text": "Hardware"
   }
 ]

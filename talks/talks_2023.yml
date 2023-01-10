@@ -1,12 +1,12 @@
-- title: ""
-  date:
+- title: "Test"
+  date: 2023-10-01
   description: >-
-    
-  location:
+    Test
+  location: Test
   links:
   - name: Companion site, slides, and materials
-    url:
+    #url:
     icon: fa-solid fa-chalkboard-user
   - name: GitHub repository
-    url:
+    #url:
     icon: fa-brands fa-github

@@ -3,4 +3,12 @@
 .RData
 .Ruserdata
 
+
 /.quarto/
+**/*_cache/*
+
+
+design-assets/*
+static/etc/*
+.DS_Store
+/.luarc.json

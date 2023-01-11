@@ -2,8 +2,8 @@
 title: "Hello there!"
 pagetitle: "{{< meta website.title >}}"
 description-meta: "{{< meta website.description >}}"
-main-photo: /files/profiles/lorenzo-fabbri-2022.jpg
-main-photo-square: /files/profiles/lorenzo-fabbri-2022.jpg
+main-photo: /files/profiles/lorenzo-fabbri-2022.jpeg
+main-photo-square: /files/profiles/lorenzo-fabbri-2022.jpeg
 title-block-banner: "#CF4446"
 format:
   html:
@@ -11,10 +11,8 @@ format:
       banner-header-class: "home"
 ---
 
-::: {.grid}
-
+::: grid
 ::: {.g-col-12 .g-col-sm-4}
-
 ```{=html}
 <div class="grid" style="--bs-columns: 5; row-gap: 0;">
   <div class="g-col-1 g-col-sm-0"></div>
@@ -28,15 +26,11 @@ format:
   <div class="g-col-1 g-col-sm-0"></div>
 </div>
 ```
-
 :::
 
 ::: {.g-col-12 .g-col-sm-8}
-
 I'm a...
 
 I study... I do research in...
-
 :::
-
 :::

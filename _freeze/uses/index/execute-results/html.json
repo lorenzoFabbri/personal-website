@@ -1,0 +1,14 @@
+{
+  "hash": "59b7eb5598956a99e2f2e661029b98af",
+  "result": {
+    "markdown": "---\ntitle: What I use\ndate: \"11/01/2023\"\ntitle-block-banner: \"#771C6D\"\npublished-title: Last updated\ntoc: true\ntoc-location: left\ntoc-title: \"Contents\"\n---\n\n\n## Writing\n\n## Development\n\n### Science and research\n\n### Web\n\n### Miscellaneous\n\n## Desktop apps\n\n### Graphic design\n\n### Productivity\n\n## Hardware\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

@@ -96,7 +96,7 @@ website:
 format:
   html:
     theme:
-      - html/lof.scss
+      - flatly
     toc: false
     code-link: true
     anchor-sections: true

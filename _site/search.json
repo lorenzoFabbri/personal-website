@@ -25,7 +25,7 @@
     "href": "index.html",
     "title": "Hello there!",
     "section": "",
-    "text": "I’m a…\nI study… I do research in…"
+    "text": "I currently am a 2nd year PhD student at the Barcelona Institute for Global Health (ISGlobal). I work under the supervision of Prof. Martine Vrijheid. My main topics of interest are the use of modern causal inference methods to answer questions in the broad field of environmental neuroepidemiology.\nI received a Bachelor’s degree in Biotechnology and a Master’s degree in Quantitiative and Computational Biology."
   },
   {
     "objectID": "now/index.html",
@@ -35,18 +35,39 @@
     "text": "I’m spending all my time on these things:\n\nLiving in…\nWorking as…\nWorking on…"
   },
   {
+    "objectID": "research/articles/fabbri-maitre-2023/index.html",
+    "href": "research/articles/fabbri-maitre-2023/index.html",
+    "title": "Childhood exposure to non-persistent endocrine disrupting chemicals and multi-omic profiles: A panel study",
+    "section": "",
+    "text": "GitHub repository"
+  },
+  {
+    "objectID": "research/articles/fabbri-maitre-2023/index.html#abstract",
+    "href": "research/articles/fabbri-maitre-2023/index.html#abstract",
+    "title": "Childhood exposure to non-persistent endocrine disrupting chemicals and multi-omic profiles: A panel study",
+    "section": "Abstract",
+    "text": "Abstract\n\nBackground\nIndividuals are exposed to environmental pollutants with endocrine disrupting activity (endocrine disruptors, EDCs) and the early stages of life are particularly susceptible to these exposures. Previous studies have focused on identifying molecular signatures associated with EDCs, but none have used repeated sampling strategy and integrated multiple omics. We aimed to identify multi-omic signatures associated with childhood exposure to non-persistent EDCs.\n\n\nMethods\nWe used data from the HELIX Child Panel Study, which included 156 children aged 6 to 11. Children were followed for one week, in two time periods. Twenty-two non-persistent EDCs (10 phthalate, 7 phenol, and 5 organophosphate pesticide metabolites) were measured in two weekly pools of 15 urine samples each. Multi-omic profiles (methylome, serum and urinary metabolome, proteome) were measured in blood and in a pool urine samples. We developed visit-specific Gaussian Graphical Models based on pairwise partial correlations. The visit-specific networks were then merged to identify reproducible associations. Independent biological evidence was systematically sought to confirm some of these associations and assess their potential health implications.\n\n\nResults\n950 reproducible associations were found among which 23 were direct associations between EDCs and omics. For 9 of them, we were able to find corroborating evidence from previous literature: DEP - serotonin, OXBE - cg27466129, OXBE - dimethylamine, triclosan - leptin, triclosan - serotonin, MBzP - Neu5AC, MEHP - cg20080548, oh-MiNP - kynurenine, oxo-MiNP − 5-oxoproline. We used these associations to explore possible mechanisms between EDCs and health outcomes, and found links to health outcomes for 3 analytes: serotonin and kynurenine in relation to neuro-behavioural development, and leptin in relation to obesity and insulin resistance.\n\n\nConclusions\nThis multi-omics network analysis at two time points identified biologically relevant molecular signatures related to non-persistent EDC exposure in childhood, suggesting pathways related to neurological and metabolic outcomes."
+  },
+  {
+    "objectID": "research/articles/fabbri-maitre-2023/index.html#citation",
+    "href": "research/articles/fabbri-maitre-2023/index.html#citation",
+    "title": "Childhood exposure to non-persistent endocrine disrupting chemicals and multi-omic profiles: A panel study",
+    "section": "Citation",
+    "text": "Citation\n\n Add to Zotero \n\n@article{fabbri2023childhood,\n  title={Childhood exposure to non-persistent endocrine disrupting chemicals and multi-omic profiles: A panel study},\n  author={Fabbri, Lorenzo and Garlantezec, Ronan and Audouze, Karine and Bustamante, Mariona and Carracedo, {\\'A}ngel and Chatzi, Leda and Gonz{\\'a}lez, Juan Ram{\\'o}n and Gra{\\v{z}}ulevi{\\v{c}}ien{\\.e}, Regina and Keun, Hector and Lau, Chung-Ho E and others},\n  journal={Environment International},\n  volume={173},\n  pages={107856},\n  year={2023},\n  publisher={Elsevier}\n}"
+  },
+  {
     "objectID": "research/index.html",
     "href": "research/index.html",
     "title": "Research",
     "section": "",
-    "text": "My research spans… I study… I also research…"
+    "text": "My research spans environmental epidemiology, neuroepidemiology, and causal inference. I study how exposure to certain chemicals and socio-economic factors during critical periods of human development affects our health. I also research the use of modern causal inference methods to address these questions."
   },
   {
     "objectID": "research/index.html#journal-articles",
     "href": "research/index.html#journal-articles",
     "title": "Research",
     "section": "Journal articles",
-    "text": "Journal articles\n\n\n\n\n\n\nNo matching items"
+    "text": "Journal articles\n\n\n\n        \n            \n                Lorenzo Fabbri et al., “Childhood exposure to non-persistent endocrine disrupting chemicals and multi-omic profiles: A panel study” Environment International 173 (February 2023): 107856, doi: 10.1016/j.envint.2023.107856\n            \n            \n                    \n                            Multi-omics\n                        \n                    \n                            Metabolomics\n                        \n                    \n                            Endocrine disruptors\n                        \n                    \n                            Childhood\n                        \n            \n            \n                \n                    \n                        \n                             Full details »\n                        \n                    \n                    \n                        \n                             Final version\n                        \n                    \n                    \n                        \n                             Code\n                        \n                    \n                    \n                        \n                             Add to Zotero\n                        \n                    \n                \n            \n        \n\n\n\nNo matching items"
   },
   {
     "objectID": "research/index.html#working-papers",

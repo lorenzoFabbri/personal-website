@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: a1eced91-b739-4969-92b8-f75ae323b792
+      url: 'https://beautiful-baklava-faa5ff.netlify.app'

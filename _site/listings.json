@@ -5,7 +5,9 @@
   },
   {
     "listing": "/research/index.html",
-    "items": []
+    "items": [
+      "/research/articles/fabbri-maitre-2023/index.html"
+    ]
   },
   {
     "listing": "/talks/index.html",

@@ -1,6 +1,5 @@
 ---
 title: "Talks"
-description-meta: "{{< meta website.description >}}"
 listing:
   - id: talks_2023
     contents: talks_2023.yml

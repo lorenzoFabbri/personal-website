@@ -43,6 +43,7 @@ $dark:      $black !default;
 
 // Fonts
 
+
 $font-family-sans-serif: "Libre Franklin" !default;
 
 $headings-font-family: "Jost" !default;
@@ -54,6 +55,7 @@ $footer-font-family: "Jost" !default;
 
 // $font-size-base: 1.1rem !default; // Assumes the browser default, typically `16px`
 // $font-size-sm: $font-size-base * .875 !default;
+
 
 // Body
 $body-color: $gray-900 !default;
@@ -99,6 +101,7 @@ body {
 .rtl {
     direction: rtl;
 }
+
 
 .home {
     .quarto-title-banner {
@@ -339,6 +342,7 @@ pre.text, pre.sourceCode, .cell-output pre {
         }
     }
 }
+
 
 // Research
 .quarto-title-block {

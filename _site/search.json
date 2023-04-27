@@ -1,14 +1,21 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "atom.html",
+    "href": "atom.html",
+    "title": "Lorenzo Fabbri’s blog",
     "section": "",
-    "text": "About this site"
+    "text": "Blog\n\n\n\n\n\n\n\n\n\n\n\n\nLorenzo Fabbri\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blog/index.html",
     "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "blog/index.html#section",
+    "href": "blog/index.html#section",
     "title": "Blog",
     "section": "",
     "text": "No matching items"
@@ -25,7 +32,7 @@
     "href": "index.html",
     "title": "Hello there!",
     "section": "",
-    "text": "I currently am a 2nd year PhD student at the Barcelona Institute for Global Health (ISGlobal). I work under the supervision of Prof. Martine Vrijheid. My main topics of interest are the use of modern causal inference methods to answer questions in the broad field of environmental neuroepidemiology.\nI received a Bachelor’s degree in Biotechnology and a Master’s degree in Quantitiative and Computational Biology."
+    "text": "I currently am a 2nd year PhD student at the Barcelona Institute for Global Health (ISGlobal). I work under the supervision of Prof. Martine Vrijheid. My main topics of interest are the use of modern causal inference methods to answer questions in the broad field of environmental neuroepidemiology.\nI received a Bachelor’s degree in Biotechnology and a Master’s degree in Quantitative and Computational Biology."
   },
   {
     "objectID": "now/index.html",
@@ -37,6 +44,13 @@
   {
     "objectID": "research/articles/fabbri-maitre-2023/index.html",
     "href": "research/articles/fabbri-maitre-2023/index.html",
+    "title": "Childhood exposure to non-persistent endocrine disrupting chemicals and multi-omic profiles: A panel study",
+    "section": "",
+    "text": "GitHub repository"
+  },
+  {
+    "objectID": "research/articles/fabbri-maitre-2023/index.html#important-links",
+    "href": "research/articles/fabbri-maitre-2023/index.html#important-links",
     "title": "Childhood exposure to non-persistent endocrine disrupting chemicals and multi-omic profiles: A panel study",
     "section": "",
     "text": "GitHub repository"
@@ -98,18 +112,25 @@
     "text": "| \n                \n            \n            \n            \n                 \n            \n        \n    \n\n\nNo matching items"
   },
   {
+    "objectID": "teaching/index.html#section",
+    "href": "teaching/index.html#section",
+    "title": "Teaching",
+    "section": "",
+    "text": "| \n                \n            \n            \n            \n                 \n            \n        \n    \n\n\nNo matching items"
+  },
+  {
     "objectID": "uses/index.html#development",
     "href": "uses/index.html#development",
     "title": "What I use",
     "section": "Development",
-    "text": "Development\nScience and research\nWeb\nMiscellaneous"
+    "text": "Development\n\nScience and research\n\n\nWeb\n\n\nMiscellaneous"
   },
   {
     "objectID": "uses/index.html#desktop-apps",
     "href": "uses/index.html#desktop-apps",
     "title": "What I use",
     "section": "Desktop apps",
-    "text": "Desktop apps\nGraphic design\nProductivity"
+    "text": "Desktop apps\n\nGraphic design\n\n\nProductivity"
   },
   {
     "objectID": "uses/index.html#hardware",

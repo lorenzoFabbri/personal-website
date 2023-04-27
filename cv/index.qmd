@@ -1,7 +1,7 @@
 ---
 title: Curriculum vitae
-description-meta: "{{< meta website.description >}}"
-date: "`r format(Sys.time(), '%d/%m/%Y')`"
+description-meta: "Lorenzo Fabbri's CV"
+date: 2023-04-27
 title-block-banner: "#771C6D"
 published-title: CV last updated
 engine: knitr

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Lorenzo Fabbri</title>
+<link>https://www.epilorenzofabbri.com/atom.html</link>
+<atom:link href="https://www.epilorenzofabbri.com/atom.xml" rel="self" type="application/rss+xml"/>
+<description>{{&lt; meta description-meta &gt;}}</description>
+<generator>quarto-99.9.9</generator>
+<lastBuildDate>Thu, 27 Apr 2023 12:52:33 GMT</lastBuildDate>
+<item>
+  <title>Blog</title>
+  <dc:creator>Lorenzo Fabbri</dc:creator>
+  <link>https://www.epilorenzofabbri.com/blog/index.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section">2023</h2>
+<div id="listing-posts_2023" class="quarto-listing quarto-listing-container-custom">
+<div class="list blog">
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+
+
+
+</section>
+
+ ]]></description>
+  <guid>https://www.epilorenzofabbri.com/blog/index.html</guid>
+  <pubDate>Thu, 27 Apr 2023 12:52:33 GMT</pubDate>
+</item>
+</channel>
+</rss>

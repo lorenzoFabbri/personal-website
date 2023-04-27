@@ -1,5 +1,11 @@
 [
   {
+    "listing": "/atom.html",
+    "items": [
+      "/blog/index.html"
+    ]
+  },
+  {
     "listing": "/blog/index.html",
     "items": []
   },

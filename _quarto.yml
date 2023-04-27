@@ -16,12 +16,12 @@ project:
 freeze: true
 bibliography: files/bib/references.bib
 csl: files/bib/chicago-author-date.csl
-pagetitle: "{{< meta title >}} | {{< meta website.title >}}"
-description-meta: "{{< meta description >}}"
+pagetitle: "{{< meta title >}} | Lorenzo Fabbri"
+description-meta: "Lorenzo Fabbri is a PhD Student at ISGlobal."
 author-meta: "Lorenzo Fabbri"
 website:
   title: "Lorenzo Fabbri"
-  description: "Lorenzo Fabbri is a PhD student at the Barcelona Institute for Global Health."
+  description: "{{< meta description-meta >}}"
   favicon: "/files/favicon.png"
   site-url: "https://www.epilorenzofabbri.com"
   repo-url: "https://github.com/lorenzoFabbri/personal-website"
@@ -37,17 +37,17 @@ website:
     pinned: true
     left:
       - text: "About"
-        href: "index.qmd"
+        href: index.qmd
       - text: "CV"
-        href: "cv/index.qmd"
+        href: cv/index.qmd
       - text: "Blog"
         file: blog/index.qmd
       - text: "Research"
         file: research/index.qmd
       - text: "Teaching"
-        href: "teaching/index.qmd"
+        href: teaching/index.qmd
       - text: "Talks"
-        href: "talks/index.qmd"
+        href: talks/index.qmd
       - text: "Now"
         href: now/index.qmd
       - text: "Uses"
@@ -77,7 +77,7 @@ website:
 format:
   html:
     theme:
-      - flatly
+      - html/lof.scss
     toc: false
     code-link: true
     anchor-sections: true

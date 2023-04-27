@@ -1,10 +1,7 @@
-# Date format
 date-format: "dddd, MMMM D, YYYY"
 
-# Enable banner style title blocks
 title-block-banner: "#170C3A"
 
-# Add blog-post class to the banner header area
 format:
   html:
     code-tools: true
@@ -17,20 +14,17 @@ format:
     quarto-template-params:
       banner-header-class: "blog-post"
 
-# Default for table of contents
 toc: true
 toc-title: Contents
 toc-location: left
 
 freeze: true
 
-# Default knitr options
 execute:
   echo: true
   message: true
   warning: true
 
-# Default author
 author:
   - name: Lorenzo Fabbri
     url: https://epilorenzofabbri.com

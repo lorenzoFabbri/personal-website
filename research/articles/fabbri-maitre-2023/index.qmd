@@ -1,0 +1,73 @@
+---
+title: "Childhood exposure to non-persistent endocrine disrupting chemicals and multi-omic profiles: A panel study"
+date: 2023-02-23
+author:
+  - Lorenzo Fabbri:
+      email: lorenzo.fabbri@isglobal.org
+      orcid: 0000-0003-3031-322X
+      institute: [isg, upf]
+      correspondence: true
+  - Martine Vrijheid:
+      email: martine.vrijheid@isglobal.org
+      orcid: 0000-0002-7090-1758
+      institute: [isg, upf]
+  - Lea Maitre:
+      email: lea.maitre@isglobal.org
+      orcid: 0000-0003-3682-7117
+      institute: [isg, upf]
+categories:
+  - Multi-omics
+  - Metabolomics
+  - Endocrine disruptors
+  - Childhood
+pub-info:
+  reference: >-
+    <strong>Lorenzo Fabbri</strong> et al., “Childhood exposure to non-persistent endocrine disrupting chemicals and multi-omic profiles: A panel study” <em>Environment International</em> 173 (February 2023): 107856, doi: <a href="https://doi.org/10.1016/j.envint.2023.107856"><code>10.1016/j.envint.2023.107856</code></a>
+  links:
+  - name: Final version
+    url: https://doi.org/10.1016/j.envint.2023.107856
+    icon: fa-solid fa-scroll
+  - name: Code
+    url: https://github.com/lorenzoFabbri/paper-helix-multiOmics
+    icon: fa-brands fa-github
+  - name: Add to Zotero
+    url: https://www.zotero.org/save?type=doi&q=10.1016/j.envint.2023.107856
+    icon: ai ai-zotero
+doi: 10.1016/j.envint.2023.107856
+---
+
+## Important links
+
+- [GitHub repository](https://github.com/lorenzoFabbri/paper-helix-multiOmics)
+
+## Abstract
+
+### Background
+Individuals are exposed to environmental pollutants with endocrine disrupting activity (endocrine disruptors, EDCs) and the early stages of life are particularly susceptible to these exposures. Previous studies have focused on identifying molecular signatures associated with EDCs, but none have used repeated sampling strategy and integrated multiple omics. We aimed to identify multi-omic signatures associated with childhood exposure to non-persistent EDCs.
+
+### Methods
+We used data from the HELIX Child Panel Study, which included 156 children aged 6 to 11. Children were followed for one week, in two time periods. Twenty-two non-persistent EDCs (10 phthalate, 7 phenol, and 5 organophosphate pesticide metabolites) were measured in two weekly pools of 15 urine samples each. Multi-omic profiles (methylome, serum and urinary metabolome, proteome) were measured in blood and in a pool urine samples. We developed visit-specific Gaussian Graphical Models based on pairwise partial correlations. The visit-specific networks were then merged to identify reproducible associations. Independent biological evidence was systematically sought to confirm some of these associations and assess their potential health implications.
+
+### Results
+950 reproducible associations were found among which 23 were direct associations between EDCs and omics. For 9 of them, we were able to find corroborating evidence from previous literature: DEP - serotonin, OXBE - cg27466129, OXBE - dimethylamine, triclosan - leptin, triclosan - serotonin, MBzP - Neu5AC, MEHP - cg20080548, oh-MiNP - kynurenine, oxo-MiNP − 5-oxoproline. We used these associations to explore possible mechanisms between EDCs and health outcomes, and found links to health outcomes for 3 analytes: serotonin and kynurenine in relation to neuro-behavioural development, and leptin in relation to obesity and insulin resistance.
+
+### Conclusions
+This multi-omics network analysis at two time points identified biologically relevant molecular signatures related to non-persistent EDC exposure in childhood, suggesting pathways related to neurological and metabolic outcomes.
+
+## Citation
+
+<p class="buttons" style="text-align:center;">
+<a class="btn btn-danger" target="_blank" href="https://www.zotero.org/save?type=doi&q=10.1016/j.envint.2023.107856">{{< ai zotero >}}&emsp;Add to Zotero {{< fa square-arrow-up-right >}}</a>
+</p>
+
+```bibtex
+@article{fabbri2023childhood,
+  title={Childhood exposure to non-persistent endocrine disrupting chemicals and multi-omic profiles: A panel study},
+  author={Fabbri, Lorenzo and Garlantezec, Ronan and Audouze, Karine and Bustamante, Mariona and Carracedo, {\'A}ngel and Chatzi, Leda and Gonz{\'a}lez, Juan Ram{\'o}n and Gra{\v{z}}ulevi{\v{c}}ien{\.e}, Regina and Keun, Hector and Lau, Chung-Ho E and others},
+  journal={Environment International},
+  volume={173},
+  pages={107856},
+  year={2023},
+  publisher={Elsevier}
+}
+```

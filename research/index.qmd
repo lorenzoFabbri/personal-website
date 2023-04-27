@@ -16,7 +16,7 @@ include-back-link: false
 toc-location: right
 ---
 
-My research spans... I study... I also research...
+My research spans environmental epidemiology, neuroepidemiology, and causal inference. I study how exposure to certain chemicals and socio-economic factors during critical periods of human development affects our health. I also research the use of modern causal inference methods to address these questions.
 
 ## Journal articles
 

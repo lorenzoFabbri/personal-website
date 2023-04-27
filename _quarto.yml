@@ -1,56 +1,40 @@
 project:
   type: website
-
   preview:
     port: 5555
     browser: true
     watch-inputs: true
     navigate: true
-
   render:
     - "*.qmd"
     - "*.md"
     - "!etc/"
-
   resources:
     - "files/**"
     - "etc/**"
-
-    # Things that need to be at the site root
     - ".htaccess"
-
 freeze: true
-
 bibliography: files/bib/references.bib
 csl: files/bib/chicago-author-date.csl
-
-# Metadata stuff
 pagetitle: "{{< meta title >}} | {{< meta website.title >}}"
 description-meta: "{{< meta description >}}"
 author-meta: "Lorenzo Fabbri"
-
 website:
   title: "Lorenzo Fabbri"
   description: "Lorenzo Fabbri is a PhD student at the Barcelona Institute for Global Health."
   favicon: "/files/favicon.png"
   site-url: "https://www.epilorenzofabbri.com"
   repo-url: "https://github.com/lorenzoFabbri/personal-website"
-
-  #google-analytics: "UA-527449-5"
-
   twitter-card:
     image: "/files/favicons.png"
     card-style: summary_large_image
     creator: "@lorenzoF_SM"
     site: "@lorenzoF_SM"
-
   open-graph: 
     image: "/files/favicons.png"
     locale: en_US
-
   navbar:
     pinned: true
-
     left:
       - text: "About"
         href: "index.qmd"
@@ -68,7 +52,6 @@ website:
         href: now/index.qmd
       - text: "Uses"
         file: uses/index.qmd
-
     right:
       - icon: rss
         aria-label: rss
@@ -82,7 +65,6 @@ website:
       - icon: github
         aria-label: github
         href: https://github.com/lorenzoFabbri
-  
   page-footer:
     left: |
       <span class="faux-block">{{< fa brands creative-commons >}} {{< var years >}} Lorenzo Fabbri</span>
@@ -92,7 +74,6 @@ website:
     right: |
       <span class="faux-block">Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)</span>
       <span class="faux-block">[View the source at {{< fa brands github >}} GitHub]({{< var github-url >}})</span>
-
 format:
   html:
     theme:
